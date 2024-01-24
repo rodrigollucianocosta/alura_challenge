@@ -1,0 +1,16 @@
+body {
+    background: #051D3B;
+    font-family: 'Open Sans',Arial,sans-serif;
+}
+
+.container img {
+    width: 146px;
+    height: 34px;
+}
+.container {
+    clear: both;
+    margin-top: 20px;
+}
+img {
+    top: 12px;
+}
